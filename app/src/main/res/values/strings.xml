@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">catsanddogs</string>
+    <string name="text_masuk">Login</string>
+    <string name="text_email">email</string>
+    <string name="text_password">password</string>
+    <string name="text_selamat_datang">Welcome</string>
+    <string name="text_home">Home</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_logout">Logout</string>
+</resources>
